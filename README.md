@@ -5,6 +5,8 @@ Written in `Java(TM) SE Runtime Environment (build 1.8.0_65-b17)`
 * ./gradlew clean
 * ./gradlew runjar
 
+NOTE: added more info.
+
 ## Output (ymmv) 
 ```
     ~/projects/sysinfo $ ./gradlew runjar
