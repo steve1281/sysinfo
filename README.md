@@ -1,11 +1,13 @@
 # sysinfo
-Simple Java Program to get system info. Uses gradle.
+## Simple Java Program to get system info. Uses gradle. 
+Written in `Java(TM) SE Runtime Environment (build 1.8.0_65-b17)`
 
-./gradlew clean
-./gradlew runjar
+* ./gradlew clean
+* ./gradlew runjar
 
-Output (ymmv) :
-    pi@pie-hole:~/projects/sysinfo $ ./gradlew runjar
+## Output (ymmv) 
+```
+    ~/projects/sysinfo $ ./gradlew runjar
     :compileJava
     :processResources UP-TO-DATE
     :classes
@@ -22,5 +24,5 @@ Output (ymmv) :
     BUILD SUCCESSFUL
 
     Total time: 18.115 secs
-
+```
 
