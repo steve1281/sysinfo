@@ -26,3 +26,12 @@ Written in `Java(TM) SE Runtime Environment (build 1.8.0_65-b17)`
     Total time: 18.115 secs
 ```
 
+## Notes
+To setup a new gradle project:
+`gradle init --type java-library`
+
+To install gradle (on a raspbian OS) :
+`sudo apt-get install gradle`
+
+
+
